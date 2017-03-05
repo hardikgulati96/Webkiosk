@@ -1,3 +1,3 @@
 # Webkiosk
-An Desktop Application Build with C graphics That On Fcaulty side keeps tracks of attendances of various students and on student side shows the attendance kiosk .
+An Desktop Application Build with C graphics That On Fcaulty side keeps tracks of attendances of various students and on student side shows the attendance kiosk .<br>
 Made with multilinked list in C along with C Graphics.
